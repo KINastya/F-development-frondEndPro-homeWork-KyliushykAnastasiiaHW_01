@@ -1,3 +1,3 @@
-let name = prompt("Hi! What's your name?");
+let userName = prompt("Hi! What's your name?");
 
-alert(`Hello, ${name} ! How are you?`);
+alert(`Hello, ${userName} ! How are you?`);
